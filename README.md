@@ -97,7 +97,7 @@ public class Perfil {
 
 ## Projetos em Destaque
 
-|  Project |  Description |
+|  Projeto |  Descrição |
 |---|---|
 | Empty :(
 
@@ -117,7 +117,7 @@ public class Perfil {
 [███████░░░] Criação de Projetos
 
 STATUS:
-Nunca parando de aprender
+Nunca parar de aprender
 ```
 
 ---
