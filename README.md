@@ -40,46 +40,44 @@ STATUS: ONLINE 👽
 
 ## Sobre Mim
 
-```java
-import java.util.List;
-import java.util.Map;
+```javascript
+const Izhac = {
 
-public class Perfil {
+ nome: "Izhac Nylton",
 
-    public static class Stack {
-        public List<String> frontend = List.of(
-            "JavaScript",
-            "HTML",
-            "CSS"
-        );
+ função: "Desenvolvedor Full Stack",
 
-        public List<String> backend = List.of(
-            "Java",
-            "Python",
-            "C",
-            "PHP"
-        );
+ localidade: "Amazonas, Brasil 🇧🇷",
 
-        public List<String> database = List.of(
-            "MySQL"
-        );
-    }
+ stack: {
+    frontend: [
+      "JavaScript",
+      "HTML",
+      "CSS"
+    ],
 
-    public static void main(String[] args) {
-        var izhac = new Object() {
-            public String nome = "Izhac";
-            public String area = "Full Stack Developer";
-            public String localidade = "Amazonas, Brazil 🇧🇷";
-            public Stack stack = new Stack();
-            public List<String> ferramentas = List.of(
-                "Git",
-                "GitHub",
-                "VS Code",
-                "Eclipse"
-            );
-            public String focoo = "Construir experiências digitais";
-        };
-    }
+    backend: [
+      "Python",
+      "Java",
+      "PHP",
+      "C"
+    ],
+
+    database: [
+      "MySQL"
+    ]
+ },
+
+ ferramentas: [
+   "Git",
+   "GitHub",
+   "VS Code",
+   "Eclipse"
+ ],
+
+ foco:
+ "Construir Experiências Digitais"
+
 }
 ```
 
