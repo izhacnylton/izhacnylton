@@ -48,22 +48,20 @@ public class Profile {
 
     public static class Stack {
         public List<String> frontend = List.of(
-            "React",
             "JavaScript",
-            "TypeScript",
             "HTML",
             "CSS"
         );
 
         public List<String> backend = List.of(
             "Java",
-            "Node.js",
-            "Python"
+            "Python",
+            "C",
+            "PHP"
         );
 
         public List<String> database = List.of(
-            "MySQL",
-            "Supabase"
+            "MySQL"
         );
     }
 
@@ -76,8 +74,8 @@ public class Profile {
             public List<String> tools = List.of(
                 "Git",
                 "GitHub",
-                "Figma",
-                "VS Code"
+                "VS Code",
+                "Eclipse"
             );
             public String focus = "Building digital experiences 🚀";
         };
