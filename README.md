@@ -28,23 +28,23 @@ Initializing system...
 
 ████████████████████ 100%
 
-✔ Developer detected
-✔ Creativity enabled
-✔ Code engine activated
-✔ Projects loaded
+✔ Desenvolvedor detectado
+✔ Criatividade habilitada
+✔ Code engine ativado
+✔ Projetos carregador
 
 STATUS: ONLINE 🚀
 ```
 
 ---
 
-## About Me
+## Sobre Mim
 
 ```java
 import java.util.List;
 import java.util.Map;
 
-public class Profile {
+public class Perfil {
 
     public static class Stack {
         public List<String> frontend = List.of(
@@ -67,17 +67,17 @@ public class Profile {
 
     public static void main(String[] args) {
         var izhac = new Object() {
-            public String name = "Izhac";
-            public String role = "Full Stack Developer";
-            public String location = "Amazonas, Brazil 🇧🇷";
+            public String nome = "Izhac";
+            public String area = "Full Stack Developer";
+            public String localidade = "Amazonas, Brazil 🇧🇷";
             public Stack stack = new Stack();
-            public List<String> tools = List.of(
+            public List<String> ferramentas = List.of(
                 "Git",
                 "GitHub",
                 "VS Code",
                 "Eclipse"
             );
-            public String focus = "Building digital experiences 🚀";
+            public String focoo = "Construir experiências digitais";
         };
     }
 }
@@ -85,7 +85,7 @@ public class Profile {
 
 ---
 
-## Tech Stack
+## Tecnologias
 
 <div align="center">
 
@@ -95,7 +95,7 @@ public class Profile {
 
 ---
 
-## Featured Projects
+## Projetos em Destaque
 
 |  Project |  Description |
 |---|---|
@@ -103,26 +103,26 @@ public class Profile {
 
 ---
 
-## Current Mission
+## Missão atual
 
 ```bash
-> Loading objectives...
+> Carregando Objetivos...
 
-[███████░░░] Java Development
+[███████░░░] Desenvolvimento Java
 
-[██████████] Backend Skills
+[██████████] Habilidades Backend
 
-[████████░░] Frontend Skills
+[████████░░] Habilidades Frontend
 
-[███████░░░] Creating Projects :(
+[███████░░░] Criação de Projetos
 
 STATUS:
-Never stop learning 
+Nunca parando de aprender
 ```
 
 ---
 
-## Connect With Me 😛
+## Conecte-se comigo 😛
 
 <div align="center">
 
@@ -140,7 +140,7 @@ Never stop learning
 
 <div align="center">
 
-### "Turning ideas into code and code into experiences."
+### "Transformando ideias em código e código em experiências."
 
 <img src="https://komarev.com/ghpvc/?username=izhacnylton&style=for-the-badge&color=8A2BE2"/>
 
