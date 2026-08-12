@@ -9,7 +9,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:04260a,50:064e14,100:086e1c&text=Dev%20Júnior&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img width="100%" src="assets/Banner-Caveirao.png"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2500&pause=800&color=086E1C&center=true&vCenter=true&width=900&lines=SYSTEM+BOOTING...;FULL+STACK+DEVELOPER;HTML+%7C+JAVA+%7C+PYTHON;WELCOME+TO+MY+CODE+SPACE"/>
 
@@ -40,48 +40,44 @@ STATUS: ONLINE 🚀
 
 ## About Me
 
-```java
-import java.util.List;
-import java.util.Map;
+```javascript
+const Izhac = {
 
-public class Profile {
+ nome: "Izhac Nylton",
 
-    public static class Stack {
-        public List<String> frontend = List.of(
-            "React",
-            "JavaScript",
-            "TypeScript",
-            "HTML",
-            "CSS"
-        );
+ função: "Full Stack Developer",
 
-        public List<String> backend = List.of(
-            "Java",
-            "Node.js",
-            "Python"
-        );
+ localidade: "Amazonas, Brazil 🇧🇷",
 
-        public List<String> database = List.of(
-            "MySQL",
-            "Supabase"
-        );
-    }
+ stack: {
+    frontend: [
+      "JavaScript",
+      "HTML",
+      "CSS"
+    ],
 
-    public static void main(String[] args) {
-        var izhac = new Object() {
-            public String name = "Izhac";
-            public String role = "Full Stack Developer";
-            public String location = "Amazonas, Brazil 🇧🇷";
-            public Stack stack = new Stack();
-            public List<String> tools = List.of(
-                "Git",
-                "GitHub",
-                "Figma",
-                "VS Code"
-            );
-            public String focus = "Building digital experiences 🚀";
-        };
-    }
+    backend: [
+      "Python",
+      "Java",
+      "PHP",
+      "C"
+    ],
+
+    database: [
+      "MySQL"
+    ]
+ },
+
+ tools: [
+   "Git",
+   "GitHub",
+   "VS Code",
+   "Eclipse"
+ ],
+
+ foco:
+ "Building Digital Experiences"
+
 }
 ```
 
@@ -116,7 +112,7 @@ public class Profile {
 
 [████████░░] Frontend Skills
 
-[███████░░░] Creating Projects :(
+[███████░░░] Creating Projects
 
 STATUS:
 Never stop learning 
