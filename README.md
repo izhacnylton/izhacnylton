@@ -140,8 +140,8 @@ Nunca parar de aprender
 
 ### "Transformando ideias em código e código em experiências."
 
-<img src="https://komarev.com/ghpvc/?username=izhacnylton&style=for-the-badge&color=8A2BE2"/>
+<img src="https://komarev.com/ghpvc/?username=izhacnylton&style=for-the-badge&color=086E1C"/>
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:050505,50:6d28d9,100:a855f7"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:04260a,50:064e14,100:086e1c"/>
