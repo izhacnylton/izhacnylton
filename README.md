@@ -87,7 +87,7 @@ public class Profile {
 
 ---
 
-## ⚡ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -97,15 +97,15 @@ public class Profile {
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-| 🚀 Project | 💡 Description |
+|  Project |  Description |
 |---|---|
 | Empty :(
 
 ---
 
-## 🧠 Current Mission
+## Current Mission
 
 ```bash
 > Loading objectives...
@@ -119,12 +119,12 @@ public class Profile {
 [███████░░░] Creating Projects :(
 
 STATUS:
-Never stop learning 🚀
+Never stop learning 
 ```
 
 ---
 
-## 🌎 Connect With Me
+## Connect With Me 😛
 
 <div align="center">
 
