@@ -9,7 +9,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:04260a,50:064e14,100:086e1c&text=Dev%20Júnior&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img width="100%" src="assets/Banner-Caveirao.png"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2500&pause=800&color=086E1C&center=true&vCenter=true&width=900&lines=INICIANDO+SISTEMA...;DESENVOLVEDOR+FULL+STACK;HTML+%7C+JAVA+%7C+PYTHON;BEM-VINDO+AO+MEU+CODE+SPACE"/>
 
