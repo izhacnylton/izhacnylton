@@ -30,8 +30,8 @@ Inicializando Sistema...
 
 ✔ Desenvolvedor detectado
 ✔ Criatividade habilitada
-✔ Code engine ativado
-✔ Projetos carregador
+✔ Code engine ativada
+✔ Projetos carregados
 
 STATUS: ONLINE 👽
 ```
